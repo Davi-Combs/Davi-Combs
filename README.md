@@ -55,7 +55,7 @@ She is passionate about exploring the intersection of science, society, and the 
 ---
 
 ## 🌍 Domains & Hubs
-- [ddcombs.com](https://ddcombs.com) → Professional hub 
-  -[The-Davian-Civilization](https://github.com/The-Davian-Civilization) 
-  -[A-l-p-a-c-a](https://github.com/A-l-p-a-c-a)
+- [ddcombs.com](https://ddcombs.com) → Professional hub <br>
+  -[The-Davian-Civilization](https://github.com/The-Davian-Civilization) <br>
+  -[A-l-p-a-c-a](https://github.com/A-l-p-a-c-a)<br>
   -[IAMTHEAI](https://github.com/IAMTHEAI)
