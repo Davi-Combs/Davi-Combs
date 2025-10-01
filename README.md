@@ -1,5 +1,5 @@
 # 🌌 Davi Dawn Combs  
-![Ddc.png](me)
+<img src="Ddc.png" />
 **Writer | Independent Researcher | Multidisciplinary Artist | Builder of Worlds**
 
 ---
