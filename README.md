@@ -1,4 +1,4 @@
-<img src="Ddc.png" width="200"/>
+<center><img src="Ddc.png" width="200"/></center>
 # 🌌 Davi Dawn Combs  
 
 **Writer | Independent Researcher | Multidisciplinary Artist | Builder of Worlds**
